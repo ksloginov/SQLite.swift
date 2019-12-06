@@ -22,9 +22,7 @@
 // THE SOFTWARE.
 //
 
-#if SWIFT_PACKAGE
 import SQLiteObjc
-#endif
 
 extension Module {
 
